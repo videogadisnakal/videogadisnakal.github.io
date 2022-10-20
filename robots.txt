@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wallpapernesiya.github.io/sitemap.xml
