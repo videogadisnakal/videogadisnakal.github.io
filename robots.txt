@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://pinswallpaper.github.io/sitemap.xml
+Sitemap: https://videogadisnakal.github.io/sitemap.xml
